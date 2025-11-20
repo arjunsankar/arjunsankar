@@ -14,9 +14,12 @@
 ## 🚀 About Me
 I am an experienced **AI/ML Engineer** with over **3 years of experience** bridging the gap between Deep Learning research and production deployment. Currently, I focus on Computer Vision, Generative AI (GANs), and optimizing models for Edge devices.
 
-* 🔭 **Currently working on:** Synthetic data generation for defect detection and real-time perception stacks.
-* 💡 **Specialization:** Optimizing PyTorch models for **NVIDIA Jetson** using **TensorRT** and **ONNX**.
-* 🌱 **Interest:** Large Language Models (LLMs) and RAG pipelines.
+* 🔭 **Currently working on:** Building scalable **Video Recognition Pipelines** for real-time action detection.
+* 💡 **Specialization:**
+  * **Core Vision:** End-to-end development of **Object Detection, Semantic Segmentation, & Pose Estimation** systems.
+  * **Edge Optimization:** Accelerating inference on **NVIDIA Jetson** using **TensorRT & ONNX**.
+  * **Generative AI:** Leveraging **GANs** for synthetic data generation and defect synthesis.
+* 🌱 **Interest:** Reinforcement Learning, Generative AI (**LLMs & RAG**), Advanced Computer Vision, and **Robotics** perception.
 
 ---
 
@@ -49,9 +52,9 @@ I am an experienced **AI/ML Engineer** with over **3 years of experience** bridg
 I am a published researcher in the field of Computer Vision for Healthcare.
 
 1.  **Deep Learning Algorithm for Identification of Ear Disease**
-    * *Springer (2022)* | (#) 
+    * *Springer (2022)* | [Link to Paper](https://link.springer.com/chapter/10.1007/978-981-16-5120-5_37) 
 2.  **Detection and identification of COVID-19 based on chest medical images**
-    * *International Journal of Intelligent Networks* | [Link to Paper](#)
+    * *International Journal of Intelligent Networks* | [Link to Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7843251/)
 
 ---
 
