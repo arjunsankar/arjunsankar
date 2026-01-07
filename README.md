@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-I am an experienced **AI/ML Engineer** with over **3 years of experience** bridging the gap between Deep Learning research and production deployment. Currently, I focus on Computer Vision, Generative AI (GANs), and optimizing models for Edge devices.
+I am an **AI/ML Engineer** with over **3 years of experience** bridging the gap between Deep Learning research and production deployment. Currently, I focus on Computer Vision, Generative AI (GANs), and optimizing models for Edge devices.
 
 * 🔭 **Currently working on:** Building scalable **Video Recognition Pipelines** for real-time action detection.
 * 💡 **Specialization:**
